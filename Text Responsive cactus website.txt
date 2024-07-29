@@ -13,8 +13,8 @@ ORNAMENTAL <br>
 YOUR HOME <br>
 
 .home__description
-We design ornamental plants for your 
-home in-house for an original style and 
+We design ornamental plants for your
+home in-house for an original style and
 quality you won't find anywhere else.
 
 .button
@@ -32,8 +32,8 @@ AV. The Sun #321 <br> Lima Peru
 NEW PLANTS FOR <br> YOUR HOME
 
 .new__description
-Select new ornamental plants for home 
-decoration and obtain an atmosphere of 
+Select new ornamental plants for home
+decoration and obtain an atmosphere of
 harmony and freshness.
 
 .new__title
@@ -51,7 +51,7 @@ Gymnocalycium <br> Cactus
 $15
 
 Echeveria <br> Succulent
-$10
+10$
 
 Ferocactus <br> Cactus
 $15
@@ -68,22 +68,22 @@ $15
 CARE AND HEALTH FOR <br> YOUR CACTUS
 
 .care__item p
-In cold times, add water once a month 
-and during the summer do it when the 
+In cold times, add water once a month
+and during the summer do it when the
 soil is very dry.
 
-Have good drainage so that the cactus 
+Have good drainage so that the cactus
 does not accumulate water.
 
-Place your cactus or succulent in a 
+Place your cactus or succulent in a
 location with indirect light.
 
-Do not water more than necessary, as 
-it can accumulate too much water and 
+Do not water more than necessary, as
+it can accumulate too much water and
 the plant will rot.
 
-Do not expose to high temperatures, as 
-succulent plants are not fans of 
+Do not expose to high temperatures, as
+succulent plants are not fans of
 extremes.
 
 
