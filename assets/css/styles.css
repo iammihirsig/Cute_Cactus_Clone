@@ -210,6 +210,18 @@ img {
 }
 
 /* Add blur header */
+.blur-header:after {
+	content: "";
+	position: absolute;
+	width: 1000%;
+	height: 100%;
+	background-color: hsla(228, 24%, 6%, 0.2);
+	backdrop-filter: blur(16px);
+	-webkit-backdrop-filter: blur(16px);
+	top: 0;
+	left: 0;
+  z-index: -1;
+}
 
 /* Active link */
 
@@ -319,32 +331,23 @@ img {
 	transition: transform 0.4s;
 }
 
-.new__title{
-  font-size: var(--h2-font-size);
-  text-align: center;
+.new__title {
+	font-size: var(--h2-font-size);
+	text-align: center;
 }
 
-.new__card:nth-child(odd){
-  rotate: -5deg;
+.new__card:nth-child(odd) {
+	rotate: -5deg;
 }
 
-.new__card:nth-child(even){
-  justify-self: flex-end;
-  rotate: 5deg;
+.new__card:nth-child(even) {
+	justify-self: flex-end;
+	rotate: 5deg;
 }
 
-.new__card:hover .new__img{
-  transform: translateY(-.5rem);
+.new__card:hover .new__img {
+	transform: translateY(-0.5rem);
 }
-
-
-
-
-
-
-
-
-
 
 /*=============== SHOP ===============*/
 
