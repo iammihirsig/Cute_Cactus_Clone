@@ -318,7 +318,7 @@ img {
 	background: var(--gradient-card);
 	padding: 9rem 0.75rem 1.5rem 0.75rem;
 	border: 2px solid var(--first-color-light);
-	border-radius: 1.5rem; 
+	border-radius: 1.5rem;
 }
 
 .new__img {
@@ -542,6 +542,22 @@ img {
 }
 
 /*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+	width: .6rem;
+	background-color: hsl(228, 4%, 15%);
+}
+
+::-webkit-scrollbar-thumb{
+	background-color: hsl(228, 4%, 25%);
+}
+
+::-webkit-scrollbar-thumb:hover{
+	background-color: hsl(228, 4%, 35%);
+}
+
+
+
+
 
 /*=============== SCROLL UP ===============*/
 
